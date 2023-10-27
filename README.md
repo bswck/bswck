@@ -13,4 +13,11 @@ I learn Python, I teach Python, and I enjoy it.
 Open source allows everyone to change the world for the better.<br />
 **Let's do it, too!** 🚀
 
-<sub>Somebody's missing from the hall of fame? [Please let me know](https://github.com/bswck/bswck/issues/new).</sub>
+<sub>Is somebody missing from the hall of fame? [Please let me know](https://github.com/bswck/bswck/issues/new).</sub>
+
+### My projects 🖥️
+* [configzen](https://github.com/bswck/configzen), a library for reading and writing configuration files, both synchronously and asynchronously, without losing comments and with ✨ magic features ✨ including variable interpolation and multi-file configuration allowed by built-in transclusion mechanism.
+* [proxyvars](https://github.com/bswck/proxyvars), a small library for creating proxy objects that use callbacks to determine their state. Inspired by [_werkzeug_](https://github.com/pallets/werkzeug) that powers [_flask_](https://github.com/pallets/flask). 🚀
+* [runtime_generics](https://github.com/bswck/runtime_generics), a light-weight module that allows to reuse explicitly specified type arguments passed to generic classes.
+
+If you want to work with me, [message me at bartoszpiotrslawecki@gmail.com](mailto:bartoszpiotrslawecki@gmail.com).
