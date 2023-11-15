@@ -23,5 +23,3 @@ Open source allows everyone to change the world for the better.<br />
 * [_configzen_](https://github.com/bswck/configzen), a library for reading and writing configuration files without losing comments. It offers some ✨ magic features ✨, such as data validation (thanks, _pydantic_!), variable interpolation, multi-file configuration (built-in transclusion mechanisms), partial saving & reloading, and much more.
 * [_proxyvars_](https://github.com/bswck/proxyvars), a small library for creating proxy objects that use custom callbacks to determine their state. Inspired by [_werkzeug_](https://github.com/pallets/werkzeug) that powers [_flask_](https://github.com/pallets/flask). 🚀
 * [_runtime_generics_](https://github.com/bswck/runtime_generics), a light-weight module that allows to reuse explicitly specified type arguments passed to generic classes.
-
-If you would like to work with me, [message me at bartoszpiotrslawecki@gmail.com](mailto:bartoszpiotrslawecki@gmail.com).
