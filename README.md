@@ -2,7 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bswck)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/712654007876976750)
 
-I learn Python, I teach Python, and I enjoy it.
+I learn Python, I teach Python, and I enjoy it. 🚀<br />
+I am [#opentowork](https://www.linkedin.com/in/bswck/)—if you would like to work with me, you can message me:
+- via [LinkedIn (`bswck`)](https://www.linkedin.com/in/bswck/),
+- via [Discord (`bswck`)](https://discord.com/users/712654007876976750),
+- via [e-mail (`bartoszpiotrslawecki@gmail.com`)](mailto:bartoszpiotrslawecki@gmail.com).
 
 ### My hall of fame 🏆
 * [Samuel Colvin](https://github.com/samuelcolvin), for _amazing_ knowledge and implementing _astounding_ ideas that change the world, ranging from _[smokeshow](https://github.com/samuelcolvin/smokeshow)_ to _[pydantic](https://github.com/pydantic/pydantic)_. 
@@ -11,7 +15,7 @@ I learn Python, I teach Python, and I enjoy it.
 * [Will McGugan](https://github.com/willmcgugan), for making the universe of TUIs [_beautifully simple_ and _simply beautiful_](https://www.textualize.io/) at once. For presenting world-class skill at Python and also being super-kind :)
 
 Open source allows everyone to change the world for the better.<br />
-**Let's do it, too!** 🚀
+**Let's do it, too!** ⭐
 
 <sub>Is somebody missing from the hall of fame? [Please let me know](https://github.com/bswck/bswck/issues/new).</sub>
 
