@@ -1,10 +1,10 @@
-
-
 I learn Python, I teach Python, and I enjoy it. 🚀<br />
 I am [#opentowork](https://www.linkedin.com/in/bswck/)—if you would like to work with me, you can message me:
 - via [LinkedIn (`bswck`)](https://www.linkedin.com/in/bswck/),
 - via [Discord (`bswck`)](https://discord.com/users/712654007876976750),
 - via [e-mail (`bartoszpiotrslawecki@gmail.com`)](mailto:bartoszpiotrslawecki@gmail.com).
+
+[Check out my resume! 🔗](https://raw.githubusercontent.com/bswck/bswck/master/RESUME.pdf)
 
 ### My hall of fame 🏆
 * [Samuel Colvin](https://github.com/samuelcolvin), for _amazing_ knowledge and implementing _astounding_ ideas that change the world, ranging from _[smokeshow](https://github.com/samuelcolvin/smokeshow)_ to _[pydantic](https://github.com/pydantic/pydantic)_. 
