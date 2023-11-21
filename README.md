@@ -18,7 +18,8 @@ Open source allows everyone to change the world for the better.<br />
 <sub>Is somebody missing from the hall of fame? [Please let me know](https://github.com/bswck/bswck/issues/new).</sub>
 
 ### My projects 🖥️
-* [_configzen_](https://github.com/bswck/configzen), a library for reading and writing configuration files without losing comments. It offers some ✨ magic features ✨, such as data validation (thanks, _pydantic_!), variable interpolation, multi-file configuration (built-in transclusion mechanisms), partial saving & reloading, and much more.
+* [_skeleton_](https://github.com/bswck/skeleton), a generic Python project skeleton that uses [_copier_](https://github.com/copier-org/copier).
+* [_configzen_](https://github.com/bswck/configzen), a library for reading and writing configuration files without losing comments. It offers some ✨ magical features ✨, such as data validation (thanks, _pydantic_!), variable interpolation, multi-file configuration (built-in transclusion mechanisms), partial saving & reloading, and much more.
 * [_proxyvars_](https://github.com/bswck/proxyvars), a small library for creating proxy objects that use custom callbacks to determine their state. Inspired by [_werkzeug_](https://github.com/pallets/werkzeug) that powers [_flask_](https://github.com/pallets/flask). 🚀
 * [_runtime_generics_](https://github.com/bswck/runtime_generics), a light-weight module that allows to reuse explicitly specified type arguments passed to generic classes.<br /><br />
 
