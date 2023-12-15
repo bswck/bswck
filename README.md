@@ -7,7 +7,7 @@ I am [#opentowork](https://www.linkedin.com/in/bswck/)—if you would like to wo
 [Check out my resume! 🔗](https://raw.githubusercontent.com/bswck/bswck/master/RESUME.pdf)
 
 ### My hall of fame 🏆
-* [Łukasz Langa](https://github.com/ambv) for his excellent knowledge, contributions to (C)Python, [PEP 585](https://peps.python.org/pep-0585/), fascinating talks on advanced Python topics, and much much more.
+* [Łukasz Langa](https://github.com/ambv) for his excellent knowledge, contributions to (C)Python, creating [Black](https://github.com/psf/black#readme), [PEP 585](https://peps.python.org/pep-0585/), fascinating talks on advanced Python topics, and much much more.
 * [Samuel Colvin](https://github.com/samuelcolvin), for _amazing_ knowledge and implementing _astounding_ ideas that change the world, ranging from _[smokeshow](https://github.com/samuelcolvin/smokeshow)_ to _[pydantic](https://github.com/pydantic/pydantic)_. 
 * [Jason R. Coombs](https://github.com/jaraco), for teaching me how to _think Python_ through his code. For being professional at observing and inventing solutions in _over 100 open-source projects_.
 * [Charlie R. Marsh](https://github.com/charliermarsh), for putting enormous effort into creating _the fastest, yet educative_ [tools for the Python ecosystem](https://astral.sh/) to have ever existed. For being such a kind person during his challenging journey.
