@@ -1,10 +1,10 @@
-I learn Python, I teach Python, and I enjoy it. 🚀<br />
-I am [#opentowork](https://www.linkedin.com/in/bswck/)—if you would like to work with me, you can message me:
+I have a long-term experience and deep expertise in Python, code quality assurance and delivering production-ready, documented & well-tested software.<br />
+With numerous FOSS contributions and passion for learning, I am [#opentowork](https://www.linkedin.com/in/bswck/)—reach me out:
 - via [LinkedIn (`bswck`)](https://www.linkedin.com/in/bswck/),
 - via [Discord (`bswck`)](https://discord.com/users/712654007876976750),
 - via [e-mail (`bartoszpiotrslawecki@gmail.com`)](mailto:bartoszpiotrslawecki@gmail.com).
 
-[Check out my resume! 🔗](https://raw.githubusercontent.com/bswck/bswck/master/RESUME.pdf)
+[🔗 My resume](https://raw.githubusercontent.com/bswck/bswck/master/RESUME.pdf).
 
 ### Projects I authored 🖥️
 * [_skeleton_](https://github.com/bswck/skeleton), a generic Python project skeleton that uses [_copier_](https://github.com/copier-org/copier).
@@ -12,7 +12,8 @@ I am [#opentowork](https://www.linkedin.com/in/bswck/)—if you would like to wo
 * [_proxyvars_](https://github.com/bswck/proxyvars), a small library for creating proxy objects that use custom callbacks to determine their state. Inspired by [_werkzeug_](https://github.com/pallets/werkzeug) that powers [_flask_](https://github.com/pallets/flask). 🚀
 * [_runtime_generics_](https://github.com/bswck/runtime_generics), a light-weight module that allows to reuse explicitly specified type arguments passed to generic classes.<br /><br />
 
-### My hall of fame 🏆
+### Hall of fame 🏆
+During my Open Source journey, I stay inspired by the following people:
 * [Łukasz Langa](https://github.com/ambv) for his excellent knowledge, contributions to (C)Python, creating [Black](https://github.com/psf/black#readme), [PEP 585](https://peps.python.org/pep-0585/), fascinating talks on advanced Python topics, and much much more.
 * [Samuel Colvin](https://github.com/samuelcolvin), for _amazing_ knowledge and implementing _astounding_ ideas that change the world, ranging from _[smokeshow](https://github.com/samuelcolvin/smokeshow)_ to _[pydantic](https://github.com/pydantic/pydantic)_. 
 * [Jason R. Coombs](https://github.com/jaraco), for teaching me how to _think Python_ through his code. For being professional at observing and inventing solutions in _over 100 open-source projects_.
