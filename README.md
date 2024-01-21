@@ -1,4 +1,4 @@
-Deep knowledge of Python, code quality assurance and delivering production-ready, documented & well-tested software.<br />
+Proven practical knowledge of Python, code quality assurance and delivering production-ready, documented & well-tested software.<br />
 With numerous FOSS contributions and passion for learning, I am [#opentowork](https://www.linkedin.com/in/bswck/)—reach me out:
 - via [LinkedIn (`bswck`)](https://www.linkedin.com/in/bswck/),
 - via [Discord (`bswck`)](https://discord.com/users/712654007876976750),
