@@ -1,4 +1,4 @@
-<!-- [![committers.top badge](https://user-badge.committers.top/poland/bswck.svg)](https://user-badge.committers.top/poland/bswck) -->
+[![committers.top badge](https://user-badge.committers.top/poland/bswck.svg)](https://user-badge.committers.top/poland/bswck)
 
 Proven practical knowledge of Python, code quality assurance and delivering production-ready, documented & well-tested software.<br />
 With numerous FOSS contributions and passion for learning, I am [#opentowork](https://www.linkedin.com/in/bswck/)—reach me out:
