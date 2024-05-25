@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/poland/bswck.svg)](https://user-badge.committers.top/poland/bswck)
-
 _Revolutionizing the way you write Python code._
 
 Proven practical knowledge of Python, code quality assurance and delivering production-ready, documented & well-tested software.<br />
