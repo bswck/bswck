@@ -1,1 +1,3 @@
-if you need me, you'll find me
+i teach python
+
+bartoszpiotrslawecki@gmail.com
