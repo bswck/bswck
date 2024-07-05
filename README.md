@@ -1,3 +1,3 @@
-I teach Python @ NaukaPythona.com
+I teach Python @ [NaukaPythona.com](https://naukapythona.com)
 
 bartoszpiotrslawecki@gmail.com
