@@ -18,4 +18,4 @@ Hands-on project experience and a focus on delivering effective training.
 > There's a little more to it, see [my GitHub repos](https://github.com/bswck?tab=repositories).
 
 ### `contact`
-📧 Email: bartoszpiotrslawecki@gmail.com
+📧 bartoszpiotrslawecki@gmail.com
