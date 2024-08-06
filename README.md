@@ -1,4 +1,4 @@
-🚀 Python Developer | Technical Trainer | Project Consultant
+Python Developer, Technical Trainer, Project Consultant.
 
 ### `about`
 Skilled in Python development, project consultation, and conducting lessons.<br>
