@@ -12,6 +12,7 @@ Hands-on project experience and a focus on delivering effective training.
 - [ ] [**Coherent Software Development System**](https://github.com/coherent-oss/system), a new build system and package layout for Python
 - [ ] [**autorefine**](https://github.com/bswck/autorefine), a tool for refactoring that scales
 - [ ] [**ScaffOps**](https://github.com/scaffops/scaffops), a tool for project scaffolding in Rust
+- [ ] [**apocomitamatma.pl**](https://github.com/apocomitamatma/apocomitamatma.pl/), a personal website for a math YouTuber
 
 #### Done
 - [x] [**slothy**](https://github.com/bswck/slothy), an experimental pure-Python opt-in style implementation of PEP 690
