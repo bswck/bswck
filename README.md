@@ -3,9 +3,6 @@ Happy to work with seasoned engineers and core developers here, on GitHub.<br>
 Skilled in Python development, project consultation, and conducting lessons.<br>
 Hands-on project experience and a focus on delivering effective training.
 
-> [!Note]
-> More details can be found in my resume.
-
 ### `projects`
 #### Work in Progress
 - [ ] [**Coherent Software Development System**](https://github.com/coherent-oss/system), a new build system and package layout for Python
@@ -19,9 +16,6 @@ Hands-on project experience and a focus on delivering effective training.
 - [x] [**runtime_generics**](https://github.com/bswck/slothy), reusable type arguments in generic classes for Python
 - [x] [**proxyvars**](https://github.com/bswck/proxyvars), proxy variables for Python, inspired by `werkzeug` proxies
 - [x] [**configzen**](https://github.com/bswck/autorefine), a library for read-and-write configuration models in Pydantic
-
-> [!Note]
-> There's a little more to it, see [my GitHub repos](https://github.com/bswck?tab=repositories).
 
 ### `contact`
 📧 bartoszpiotrslawecki@gmail.com
