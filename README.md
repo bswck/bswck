@@ -1,6 +1,5 @@
-Python Developer, Technical Trainer, Project Consultant.
-
 ### `about`
+Happy to work with seasoned engineers and core developers here, on GitHub.<br>
 Skilled in Python development, project consultation, and conducting lessons.<br>
 Hands-on project experience and a focus on delivering effective training.
 
