@@ -13,9 +13,9 @@ Hands-on project experience and a focus on delivering effective training.
 
 #### Done
 - [x] [**slothy**](https://github.com/bswck/slothy), an experimental pure-Python opt-in style implementation of PEP 690
-- [x] [**runtime_generics**](https://github.com/bswck/slothy), reusable type arguments in generic classes for Python
+- [x] [**runtime_generics**](https://github.com/bswck/runtime_generics), reusable type arguments in generic classes for Python
 - [x] [**proxyvars**](https://github.com/bswck/proxyvars), proxy variables for Python, inspired by `werkzeug` proxies
-- [x] [**configzen**](https://github.com/bswck/autorefine), a library for read-and-write configuration models in Pydantic
+- [x] [**configzen**](https://github.com/bswck/configzen), a library for read-and-write configuration models in Pydantic
 
 ### `contact`
 📧 bartoszpiotrslawecki@gmail.com
