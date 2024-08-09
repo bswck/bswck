@@ -1,7 +1,14 @@
 ### `about`
 Happy to work with seasoned engineers and Python core developers here, on GitHub.<br>
 Skilled in Python development, project consultation, and conducting lessons.<br>
-Hands-on project experience and a focus on delivering effective training.
+
+### `ask me about`
+- [Type System in Python](https://typing.readthedocs.io/)
+- Niche trickery & magic in Python
+- Acing Bash (read [this](https://github.com/dylanaraps/pure-bash-bible) before though)
+- Who are Junior, Mid & Senior developers
+- Why Svelte is the best
+- Why I moved from PyCharm after using it for 3 years
 
 ### `projects`
 #### Work in Progress
