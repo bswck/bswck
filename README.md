@@ -10,10 +10,10 @@ I'm making a library called [injection](https://github.com/bswck/injection):
 from functools import partial
 from random import randint
 
-from injection import injection
+from injection import inject
 
 roll: int
-injection("roll", factory=partial(randint, 1, 6), into=locals())
+inject("roll", into=locals(), factory=partial(randint, 1, 6))
 
 print(roll)  # 6
 print(roll)  # 4
@@ -38,5 +38,7 @@ def read_data(path: StrPath) -> pd.DataFrame:
 ```
 
 #### `education`
-`# TODO(bswck#1): fill in this section`
+I'm a technical trainer for Python & Git.
+Contact me if you are a professional looking to get more advanced knowledge of Python!
+
 
