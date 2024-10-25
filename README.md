@@ -10,7 +10,7 @@ Feel free to reach out, especially if:
 - you are a beginner willing to learn how to think like a programmer
 - you are a professional willing to get deep understanding of particular concepts in Python
 
-I'm conducting lessons in English and Polish, as preferred.
+I conduct lessons in English and Polish, as preferred.
 
 #### `metaprogramming`
 I'm making a library called [injection](https://github.com/bswck/injection):
