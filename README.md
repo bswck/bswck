@@ -1,6 +1,5 @@
 ### `about`
 I'm a software developer and programming teacher.
-Contact me via e-mail, .
 
 #### `education`
 I'm a technical trainer with a focus on Python, Git and whatever else is on our way.
