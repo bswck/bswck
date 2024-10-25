@@ -1,5 +1,5 @@
 ### `about`
-Mainly programming and teaching Python. Contact me [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
+Mainly programming and teaching Python. Contact me via e-mail, [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
 
 My main areas of interest are probably education & metaprogramming.
 
