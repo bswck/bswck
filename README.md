@@ -1,11 +1,11 @@
 ### `about`
 I'm a software developer and programming teacher.
-Contact me via e-mail, [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
+Contact me via e-mail, .
 
 #### `education`
 I'm a technical trainer with a focus on Python, Git and whatever else is on our way.
 
-Feel free to reach out, especially if:
+Feel free to reach me out via e-mail ([bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com)) especially if:
 - you are a beginner willing to learn how to think like a programmer
 - you are a professional willing to get deep understanding of particular concepts in Python
 
