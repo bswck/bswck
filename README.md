@@ -1,7 +1,14 @@
 ### `about`
 Mainly programming and teaching Python. Contact me [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
 
-My main areas of interest are probably metaprogramming & education.
+My main areas of interest are probably education & metaprogramming.
+
+#### `education`
+I'm a technical trainer for Python, Git and whatever else is on our way.
+
+Feel free to reach out, especially if:
+- you are a beginner willing to learn how to think like a programmer
+- you are a professional willing to get deep understanding of particular concepts in Python
 
 #### `metaprogramming`
 I'm making a library called [injection](https://github.com/bswck/injection):
@@ -36,12 +43,5 @@ with lazy_imports():
 def read_data(path: StrPath) -> pd.DataFrame:
     return pd.read_csv(path, sep=";")  # pandas only imported now
 ```
-
-#### `education`
-I'm a technical trainer for Python, Git and whatever else is on our way.
-
-Feel free to reach out, especially if:
-- you are a beginner willing to learn how to think like a programmer
-- you are a professional willing to get deep understanding of particular concepts in Python
 
 
