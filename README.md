@@ -38,7 +38,7 @@ def read_data(path: StrPath) -> pd.DataFrame:
 ```
 
 #### `education`
-I'm a technical trainer for Python & Git.
+I'm a technical trainer for Python, Git and whatever else is on our way.
 
 Feel free to reach out, especially if:
 - you are a beginner willing to learn how to think like a programmer
