@@ -34,11 +34,11 @@ from __future__ import annotations
 
 from injection.contrib import lazy_imports, type_imports
 
-with type_imports():
-    from _typeshed import StrPath  # never imported, typing.Any at runtime
-
 with lazy_imports():
     import pandas as pd
+
+with type_imports():
+    from _typeshed import StrPath  # never imported, typing.Any at runtime
 
 def read_data(path: StrPath) -> pd.DataFrame:
     return pd.read_csv(path, sep=";")  # pandas only imported now
