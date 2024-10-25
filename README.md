@@ -2,7 +2,7 @@
 I'm a software developer and programming teacher.
 
 #### `education`
-I'm a technical trainer with a focus on Python, Git and whatever else is in the way.
+As a technical trainer I mainly focus on Python and Git, but am happy to explain whatever else is in the way.
 
 Feel free to reach me out via e-mail ([bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com)) especially if:
 - you are a beginner willing to learn how to think like a programmer
