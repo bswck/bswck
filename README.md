@@ -1,18 +1,26 @@
 ### `about`
-I'm just an explorer.
+Mainly programming and teaching Python. Contact me [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
 
-### `projects`
-#### Work in Progress
-- [ ] [**Coherent Software Development System**](https://github.com/coherent-oss/system), a new build system and package layout for Python
-- [ ] [**autorefine**](https://github.com/bswck/autorefine), a tool for refactoring that scales
-- [ ] [**ScaffOps**](https://github.com/scaffops/scaffops), a tool for project scaffolding in Rust
-- [ ] [**AcePython.com**](https://github.com/acepython-business/acepython.com/), a website for training Python at all levels
+My main areas of interest are probably metaprogramming & education.
 
-#### Done
-- [x] [**slothy**](https://github.com/bswck/slothy), an experimental pure-Python opt-in style implementation of PEP 690
-- [x] [**runtime_generics**](https://github.com/bswck/runtime_generics), reusable type arguments in generic classes for Python
-- [x] [**proxyvars**](https://github.com/bswck/proxyvars), proxy variables for Python, inspired by `werkzeug` proxies
-- [x] [**configzen**](https://github.com/bswck/configzen), a library for read-and-write configuration models in Pydantic
+#### `metaprogramming`
+I'm making a library called [injection](https://github.com/bswck/injection):
 
-### `contact`
-📧 bartoszpiotrslawecki@gmail.com
+```py
+from functools import partial
+from random import randint
+
+from injection import injection
+
+roll: int
+
+injection("roll", factory=partial(randint, 1, 6), into=locals())
+
+print(roll)  # 6
+print(roll)  # 4
+print(roll)  # 3
+```
+
+#### `education`
+`# TODO(bswck#1): fill in this section`
+
