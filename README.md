@@ -20,6 +20,21 @@ print(roll)  # 4
 print(roll)  # 3
 ```
 
+```py
+from __future__ import annotations
+
+from injection.contrib import lazy_imports, type_imports
+
+with type_imports():
+    from _typeshed import StrPath
+
+with lazy_imports():
+    import pandas as pd
+
+def read_data(path: StrPath) -> pd.DataFrame:
+    return pd.read_csv(path, sep=";")
+```
+
 #### `education`
 `# TODO(bswck#1): fill in this section`
 
