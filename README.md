@@ -18,6 +18,8 @@ injection("roll", factory=partial(randint, 1, 6), into=locals())
 print(roll)  # 6
 print(roll)  # 4
 print(roll)  # 3
+
+# you never know what the value of roll will be!
 ```
 
 ```py
