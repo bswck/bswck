@@ -7,7 +7,6 @@ I'm just an explorer.
 - [ ] [**autorefine**](https://github.com/bswck/autorefine), a tool for refactoring that scales
 - [ ] [**ScaffOps**](https://github.com/scaffops/scaffops), a tool for project scaffolding in Rust
 - [ ] [**AcePython.com**](https://github.com/acepython-business/acepython.com/), a website for training Python at all levels
-- [ ] [**apocomitamatma.pl**](https://github.com/apocomitamatma/apocomitamatma.pl/), a personal website for a math YouTuber
 
 #### Done
 - [x] [**slothy**](https://github.com/bswck/slothy), an experimental pure-Python opt-in style implementation of PEP 690
