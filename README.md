@@ -4,7 +4,7 @@ Mainly programming and teaching Python. Contact me [📧 bartoszpiotrslawecki@gm
 My main areas of interest are probably education & metaprogramming.
 
 #### `education`
-I'm a technical trainer for Python, Git and whatever else is on our way.
+I'm a technical trainer with a focus on Python, Git and whatever else is on our way.
 
 Feel free to reach out, especially if:
 - you are a beginner willing to learn how to think like a programmer
