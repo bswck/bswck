@@ -13,7 +13,6 @@ from random import randint
 from injection import injection
 
 roll: int
-
 injection("roll", factory=partial(randint, 1, 6), into=locals())
 
 print(roll)  # 6
