@@ -1,7 +1,6 @@
 ### `about`
-Mainly programming and teaching Python. Contact me via e-mail, [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
-
-My main areas of interest are probably education & metaprogramming.
+I'm a software developer and programming teacher.
+Contact me via e-mail, [📧 bartoszpiotrslawecki@gmail.com](mailto://bartoszpiotrslawecki@gmail.com).
 
 #### `education`
 I'm a technical trainer with a focus on Python, Git and whatever else is on our way.
