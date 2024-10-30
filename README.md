@@ -22,9 +22,9 @@ from injection import inject
 roll: int
 inject("roll", into=locals(), factory=partial(randint, 1, 6))
 
-print(roll)  # 6
-print(roll)  # 4
-print(roll)  # 3
+print(roll, type(roll))  # 6 <class 'int'>
+print(roll, type(roll))  # 4 <class 'int'>
+print(roll, type(roll))  # 3 <class 'int'>
 
 # you never know what the value of roll will be!
 ```
