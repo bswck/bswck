@@ -1,5 +1,5 @@
 #### `about`
-I'm a software developer who works to become a software engineer.
+I'm a software developer, but I aim to act like a software engineer.
 I also teach programming.
 
 #### `contact`
