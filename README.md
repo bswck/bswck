@@ -1,5 +1,6 @@
-### `about`
-I'm a software developer and programming teacher.
+#### `about`
+I'm a software developer who works to become a software engineer.
+I also teach programming.
 
 #### `contact`
 - If you like Rust: [bartosz@ilikerust.com](mailto://bartosz@ilikerust.com)
