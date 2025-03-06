@@ -7,3 +7,5 @@ I also teach programming.
 - If you like Rust: [bartosz@ilikerust.com](mailto://bartosz@ilikerust.com)
 - If you like Python: [bartosz@ilikepython.com](mailto://bartosz@ilikepython.com)
 - If you like programming: [bartosz@ilikeprogramming.com](mailto://bartosz@ilikeprogramming.com)
+
+![profile views](https://komarev.com/ghpvc/?username=bswck&color=000000)
